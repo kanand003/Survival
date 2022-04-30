@@ -3,7 +3,7 @@
       <a href="https://youtu.be/wQxUA6YwkpM">
      <img 
       src="https://youtu.be/wQxUA6YwkpM/0.jpg" 
-      alt="Everything Is AWESOME" 
+      alt="Survival" 
       style="width:100%;">
       </a>
     </div>
