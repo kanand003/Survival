@@ -1,4 +1,7 @@
 # Survival
+
+Click on the image below to watch the gameplay reel
+
 <div align="center">
       <a href="https://youtu.be/wQxUA6YwkpM">
      <img 
